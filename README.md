@@ -40,12 +40,12 @@ Your preregistration links here
 
 ```
 ├── code
-	└── experiment
-	└── preprocessing
-	└── analysis
+│   ├── experiment
+│   ├── preprocessing
+│   └── analysis
 ├── data
-	└── raw
-	└── processed
+│   ├── raw
+│   └── processed
 ├── figures
 ├── materials
 ├── presentation
